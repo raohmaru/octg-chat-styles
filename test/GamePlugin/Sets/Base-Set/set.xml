@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Base Set" id="5c81a249-19ed-4fc5-91b6-129aae7d540f" gameId="32660916-d8ec-4b8f-ab9d-7c511900bb62" gameVersion="1.0.0.0" version="1.0">
+    <cards>
+        <card id="bb5ba2d4-7665-4ce5-a2cc-65ed39dd40e0" name="Ace of Spades">
+            <property name="Text" value="Heart"/>
+        </card>
+        <card id="2173792d-8d35-44b2-9f25-d3daccad10b5" name="Ace of Tronchos">
+            <property name="Text" value="Tronchos will never die"/>
+        </card>
+        <card id="fd54f07e-f2bd-4550-88fa-d92a1eaf8c47" name="Trokelado">
+            <property name="Text" value="Trokelado paper and mill"/>
+        </card>
+        <card id="bcc25ae1-0d7e-4f4d-887b-d3fd344f58ee" name="Walter">
+            <property name="Text" value="Also known as Wally"/>
+        </card>
+    </cards>
+</set>

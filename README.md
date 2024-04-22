@@ -1,10 +1,10 @@
 # OCTGN Scripting Tools
 
-Set of Python utilities to help in game plugin development.
+Set of Python utilities to help in the development of game plugins for [OCTGN](https://octgn.net/).
 
 ## Installation
 
-1. Download the file https://raw.githubusercontent.com/raohmaru/octgn-scripting-tools/master/api_ext.py.
+1. Download the file [api_ext.py](https://raw.githubusercontent.com/raohmaru/octgn-scripting-tools/master/api_ext.py).
 1. Move the downloaded file to the scripts folder of your game plugin.
 1. Add the path to this script to the `<script>` section of the [game definition XML](https://github.com/octgn/OCTGN/wiki/definition.xml#scripts) file of your game plugin.
 
@@ -17,7 +17,7 @@ It can be used in [game plugins](https://github.com/octgn/OCTGN/wiki#create-game
 ```
 _extapi.whisper("Hello World!", "#FFCC00", True)
 ```
-![Screenshot of OCTGN chat box with colorful messages.](/msgbox-with-colors.png)
+![Screenshot of OCTGN chat box with colorful messages.](msgbox-with-colors.png)
 
 ### Usage
 
